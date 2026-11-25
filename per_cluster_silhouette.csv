@@ -1,0 +1,14 @@
+solution,cluster,n_shares,mean_silhouette,share_negative_%,flag
+Ward - risk & return (k=3),1,92,0.31898335455270793,3.260869565217391,ok
+Ward - risk & return (k=3),2,164,0.3127399255503929,10.365853658536585,ok
+Ward - risk & return (k=3),3,230,0.2280316142367508,17.391304347826086,ok
+K-Means - risk & return (k=3),1,119,0.27418994234739524,4.201680672268908,ok
+K-Means - risk & return (k=3),2,202,0.3842278705572744,0.0,ok
+K-Means - risk & return (k=3),3,165,0.3006429322514191,0.6060606060606061,ok
+Ward - trading activity (k=3),1,82,0.18431901023159955,25.609756097560975,ok
+Ward - trading activity (k=3),2,154,0.24744748899812546,7.792207792207792,ok
+Ward - trading activity (k=3),3,250,0.37805034263538734,0.0,ok
+K-Means - trading activity (k=4),1,212,0.3735294985284539,0.0,ok
+K-Means - trading activity (k=4),2,122,0.3835324212167025,0.0,ok
+K-Means - trading activity (k=4),3,61,0.2627401005315497,11.475409836065573,ok
+K-Means - trading activity (k=4),4,91,0.2599427198682186,3.296703296703297,ok

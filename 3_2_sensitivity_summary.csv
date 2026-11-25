@@ -1,0 +1,6 @@
+measure,value,note
+"Strongest Pearson correlation among R, F, log1p(M)",0.346,R_days vs F_count
+Strongest Spearman correlation,0.196,rank-based check
+"ARI full RFM vs R+F only (Ward, same k, same shares)",0.291,1 = identical membership
+Shares that change cluster when M is removed,165,of 486
+ARI Ward vs K-Means (trading activity),0.318,algorithm agreement

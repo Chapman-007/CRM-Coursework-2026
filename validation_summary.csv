@@ -1,0 +1,10 @@
+,shares_affected
+missing_close,10
+missing_adj_close,10
+missing_volume,10
+nonpositive_price,0
+zero_volume,2
+negative_volume,0
+starts_late,10
+ends_early,0
+gaps_inside_history,0

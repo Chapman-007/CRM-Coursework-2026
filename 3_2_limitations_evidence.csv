@@ -1,0 +1,10 @@
+limitation,evidence from this run,section
+Survivorship bias,current list of 503 constituents applied to 2021-2024; firms removed before retrieval are absent,1.2.6
+Exclusions,"17 constituents excluded (5 failed, 10 late listings, 2 zero-volume)","1.2.5, 1.5.5"
+Price basis,dividends add a median 0.0293% per week to share returns but not to ^GSPC,3.2.3 (a)
+Return dependencies,average pairwise weekly-return correlation 0.30,3.2.2 (d)
+Feature overlap,"strongest |Pearson r| among R, F, log1p(M) = 0.35",2.5.1
+Market-wide events,353 of 486 shares share the latest event date 2024-12-20,1.5.2
+Liquidity proxy,M = Close x Volume; no bid-ask spread or price impact measured,1.4.3
+Stability over time,Spearman rho of beta between halves = 0.80,3.2.3 (b)
+Cluster strength,overall silhouettes in the weak band; per-cluster means 0.18 to 0.38,2.2-2.3
